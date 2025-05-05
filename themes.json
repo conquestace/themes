@@ -1,0 +1,26 @@
+{
+    "conquestace": {
+      "colors": {
+        "midnight": "#21252d",
+        "mathblue": "#1b91d6",
+        "sky": "#8ecae6",
+        "slatecard": "#1a1e2a",
+        "lightblue": "#bfdbfe",
+        "hoverblue": "#60a5fa",
+        "slategray": "#1a1e2a",
+        "softgray": "#9ca3af"
+      }
+    },
+    "conquestace-light": {
+      "colors": {
+        "background": "#f9fafb",
+        "mathblue": "#1b4d91",
+        "sky": "#297fb8",
+        "slatecard": "#f3f4f6",
+        "lightblue": "#dbeafe",
+        "hoverblue": "#60a5fa",
+        "slategray": "#6b7280",
+        "softgray": "#9ca3af"
+      }
+    }
+  }
