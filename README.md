@@ -4,7 +4,7 @@ This project generates colour palettes from a JSON theme file and visualizes the
 
 ![conquestace](palettes/conquestace.png)
 ![conquestace-light](palettes/conquestace-light.png)
-![all_palettes](palettes/all_palettes.png)
+
 
 ## Features
 
@@ -71,6 +71,4 @@ python generate_palettes.py
 After running the script, you can view the generated palettes in the `palettes` directory. Here are some examples:
 
 
-![conquestace](palettes/conquestace.png)
-![conquestace-light](palettes/conquestace-light.png)
 ![all_palettes](palettes/all_palettes.png)
